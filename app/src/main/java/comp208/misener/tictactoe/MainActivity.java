@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
     int col = 3;
     int row = 3;
     square[][] ttt = new square[col][row];
+
     TableLayout board;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
